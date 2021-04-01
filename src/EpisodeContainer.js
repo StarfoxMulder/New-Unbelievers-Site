@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./EpisodeContainer.css";
 import Episode from './Episode';
+import data from './data.js';
 
 class EpisodeContainer extends Component {
   constructor(props) {
@@ -12,7 +13,7 @@ class EpisodeContainer extends Component {
 
     return (
       <div className="EpisodeContainer">
-        <Episode title={} key={} date={} poll={} />
+        <Episode key={} title={} date={} poll={} />
       </div>
     )
   }
