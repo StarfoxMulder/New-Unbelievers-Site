@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import EpisodeContainer from "./MoviesContainer";
+import EpisodeContainer from "./EpisodeContainer";
 import "./Body.css";
 
 class Body extends Component {

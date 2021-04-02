@@ -1,24 +1,23 @@
-{
-  "EpisodeList" : [
-    {
-      "Episode" : {
-        "ID": "109",
-        "Title": "Extrañeza de México",
-        "Date": "3/29/2021",
-        "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>"
-      },
-      "Episode" : {
-        "ID": "108",
-        "Title": "Winged Weirdies: Batsquatch vs. The Van Meter Visitor...",
-        "Date": "3/23/2021",
-        "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>"
-      },
-      "Episode" : {
-        "ID": "107",
-        "Title": "Bearilla",
-        "Date": "3/15/2021",
-        "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>"
-      }
-    }
-  ]
-}
+[
+  {
+      "ID": "109",
+      "Title": "Extrañeza de México",
+      "Date": "3/29/2021",
+      "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>",
+      "iframe": "<iframe src=\"https://widget.spreaker.com/player?episode_id=44033962&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F8c521f1a330c36a6637528c010115685.jpg\" width=\"100%\" height=\"200px\" frameborder=\"0\"></iframe>"
+  },
+  {
+      "ID": "108",
+      "Title": "Winged Weirdies: Batsquatch vs. The Van Meter Visitor...",
+      "Date": "3/23/2021",
+      "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>",
+      "iframe": "<iframe src=\"https://widget.spreaker.com/player?episode_id=44033962&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F8c521f1a330c36a6637528c010115685.jpg\" width=\"100%\" height=\"200px\" frameborder=\"0\"></iframe>"
+  },
+  {
+      "ID": "107",
+      "Title": "Bearilla",
+      "Date": "3/15/2021",
+      "Poll": "<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://secure.polldaddy.com/p/10788935.js\"></script> <noscript><a href=\"https://poll.fm/10788935\">What’s the strangest thing in Mexico?</a></noscript>",
+      "iframe": "<iframe src=\"https://widget.spreaker.com/player?episode_id=44033962&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F8c521f1a330c36a6637528c010115685.jpg\" width=\"100%\" height=\"200px\" frameborder=\"0\"></iframe>"
+  }
+]

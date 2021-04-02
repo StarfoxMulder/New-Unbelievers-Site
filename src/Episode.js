@@ -10,7 +10,11 @@ class Episode extends Component {
   render() {
 
     return (
-      <div className="Episode">
+      <div className="Episode" id={this.props.key}>
+        <h3>{this.props.date}</h3>
+        <h4>{this.props.title}</h4>
+        <div className="EpisodeiFrame">{this.props.iframe}</div>
+        <div className="PollDiv">{this.props.poll}</div>
       </div>
     )
   }
